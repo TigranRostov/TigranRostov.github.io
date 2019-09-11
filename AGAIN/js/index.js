@@ -1,5 +1,5 @@
-alert ('Привет!');
-var answerNew = confirm('Тут я кое что позаимствовал у тебя. Обещаешь не ругаться?) А то не загружусь)))');
+//alert ('Привет!');
+//var answerNew = confirm('Тут я кое что позаимствовал у тебя. Обещаешь не ругаться?) А то не загружусь)))');
 
 const wrapper = document.querySelector('.wrapper');
 const button = document.querySelector('button');
